@@ -128,7 +128,7 @@ export default function HeroSection() {
             >
               <div className="flex items-center gap-5">
                 <a
-                  href="https://vk.com/"
+                  href="https://vk.com/gracia86ru?ysclid=mnorz9zygz267274319"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/60 transition-colors hover:text-white"
