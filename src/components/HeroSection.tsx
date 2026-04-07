@@ -69,7 +69,7 @@ export default function HeroSection() {
                   <span className="font-normal italic">говорят за себя</span>
                 </h1>
                 <p className="max-w-md text-lg font-light leading-relaxed text-white/75">
-                  Устанавливаем натяжные потолки под ключ: матовые, глянцевые, звёздное небо. Замер и монтаж за 1 день.
+                  Устанавливаем натяжные потолки под ключ: матовые, глянцевые, звёздное небо. Монтаж за 1 день.
                 </p>
               </div>
             </div>
