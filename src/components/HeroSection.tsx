@@ -80,20 +80,9 @@ export default function HeroSection() {
                 isLoaded ? 'translate-x-0 opacity-100' : '-translate-x-8 opacity-0'
               )}
             >
-              <div className="flex flex-wrap gap-4">
-                <a
-                  href="tel:+79124125572"
-                  className="inline-flex items-center gap-2 rounded-full bg-white px-8 py-3.5 text-sm font-medium text-black transition-all hover:bg-white/90 hover:shadow-lg hover:shadow-white/20"
-                >
-                  Бесплатный замер
-                </a>
-                <a
-                  href="#portfolio"
-                  className="inline-flex items-center gap-2 rounded-full border border-white/40 px-8 py-3.5 text-sm font-light text-white transition-all hover:border-white/70 hover:bg-white/10"
-                >
-                  Смотреть работы
-                </a>
-              </div>
+              <p className="text-white/70 text-base font-light italic">
+                Стоимость и объём работ индивидуальны для каждого клиента.
+              </p>
             </div>
 
             <div
