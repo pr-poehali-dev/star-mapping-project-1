@@ -106,6 +106,11 @@ export default function HeroSection() {
                   <p className="text-2xl font-light text-white">1 день</p>
                   <p className="text-sm text-white/50">монтаж</p>
                 </div>
+                <div className="w-px bg-white/20" />
+                <div>
+                  <p className="text-base font-light text-white">9:00 – 21:00</p>
+                  <p className="text-sm text-white/50">без выходных</p>
+                </div>
               </div>
             </div>
 
